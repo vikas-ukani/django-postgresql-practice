@@ -1,10 +1,10 @@
 # Django Postgresql Practice
 
-** Project practice with postgreSql database with api and views
+* Project practice with postgreSql database with api and views
 
 # Projectc Structure 
 
-"""
+'''
 manage.py*  README.md  requirments.txt
 
 cars:
@@ -17,4 +17,4 @@ Lib/  pyvenv.cfg  Scripts/
 myproject:
 __init__.py  __pycache__/  asgi.py  settings.py  urls.py  wsgi.py
 
-"""
+'''
